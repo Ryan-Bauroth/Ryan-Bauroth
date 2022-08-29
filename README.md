@@ -7,6 +7,6 @@ I'm Ryan
 - I wish I could build a game (probably can't)
 
 Links and things:
-https://ninjapig85.itch.io - Game Jams & Things
+https://ninjapig85.itch.io - Game Jams
 
 Things I'm always (He/Him | Tired | Vibing)
