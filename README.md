@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ryan-Bauroth
+- 👀 I’m interested in Spotify API
+- 🌱 I’m currently learning AP Comp Sci
