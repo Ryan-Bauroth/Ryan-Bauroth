@@ -1,7 +1,7 @@
 Hello!
 I'm Ryan
 
-What I'm up to
+What I'm up to:
 - AP Comp Sci
 - First Robotics Challenge
 
