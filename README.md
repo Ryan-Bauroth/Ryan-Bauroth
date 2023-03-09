@@ -1,5 +1,5 @@
 Hello!
-I'm Ryan
+I'm Ryan (He/Him)
 
 What I'm up to:
 - AP Comp Sci
@@ -8,4 +8,3 @@ What I'm up to:
 Links and things:
 - https://ninjapig85.itch.io - Game Jams
 
-(He/Him)
