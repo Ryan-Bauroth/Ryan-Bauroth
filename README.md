@@ -5,6 +5,6 @@ I'm Ryan
 - Learning how to code for FRC
 
 Links and things:
-https://ninjapig85.itch.io - Game Jams
+- https://ninjapig85.itch.io - Game Jams
 
 Things I'm always (He/Him | Tired | Vibing)
