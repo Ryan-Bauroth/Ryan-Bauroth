@@ -8,4 +8,4 @@ What I'm up to:
 Links and things:
 - https://ninjapig85.itch.io - Game Jams
 
-Things I'm always (He/Him | Tired | Vibing)
+(He/Him)
