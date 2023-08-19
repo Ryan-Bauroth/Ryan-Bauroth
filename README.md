@@ -10,5 +10,5 @@ What I've done (the big things):
 - Datascience Internship at UNC Chapel Hill
 
 Links and things:
-- Artistle.net
+- https://www.Artistle.net
 - https://codepen.io/Ryan-Bauroth
