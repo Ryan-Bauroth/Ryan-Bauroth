@@ -10,5 +10,5 @@ What I've done (the big things):
 - Datascience Internship at UNC Chapel Hill
 
 Links and things:
-- [https://www.Artistle.net](https://ryfi.pythonanywhere.com/single-player)
-- https://codepen.io/Ryan-Bauroth
+- [Artistle => A Music Wordle Webapp](https://ryfi.pythonanywhere.com/single-player)
+- [Codepen](https://codepen.io/Ryan-Bauroth)
