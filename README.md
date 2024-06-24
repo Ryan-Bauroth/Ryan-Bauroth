@@ -9,5 +9,5 @@ What I've done (the big things):
 - Tufts Pre-college Python 201 Course
 - Datascience Internship at UNC Chapel Hill
 
-Links and things:
+Check out my work!
 - [Artistle => A Music Wordle Webapp](https://ryfi.pythonanywhere.com/single-player)
