@@ -1,13 +1,11 @@
 Hello!
 I'm Ryan (He/Him)
 
-What I'm up to:
+My experience:
 - First Robotics Challenge (#6502)
-
-What I've done (the big things):
-- AP CS
+  - Leading a group to create a scouting website from scratch. This github is currently private but will be public soon! 
+- AP Computer Science 
 - Tufts Pre-college Python 201 Course
+  - [Artistle => A Music Wordle Webapp](https://ryfi.pythonanywhere.com/single-player) 
 - Datascience Internship at UNC Chapel Hill
-
-Check out my work!
-- [Artistle => A Music Wordle Webapp](https://ryfi.pythonanywhere.com/single-player)
+- Robotics Internship at Duke University
