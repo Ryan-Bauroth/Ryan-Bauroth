@@ -11,4 +11,3 @@ What I've done (the big things):
 
 Links and things:
 - [Artistle => A Music Wordle Webapp](https://ryfi.pythonanywhere.com/single-player)
-- [Codepen](https://codepen.io/Ryan-Bauroth)
