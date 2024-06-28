@@ -1,5 +1,5 @@
-Hello!
-I'm Ryan (He/Him)
+**Hello!
+I'm Ryan (He/Him)**
 
 My experience:
 - First Robotics Challenge (#6502)
