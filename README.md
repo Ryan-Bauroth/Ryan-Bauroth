@@ -3,7 +3,7 @@ I'm Ryan (He/Him)**
 
 My experience:
 - First Robotics Challenge (#6502)
-  - Leading a group to create a scouting website from scratch. This github is currently private but will be public soon! 
+  - Leading a group to create a scouting website from scratch.
 - AP Computer Science 
 - Tufts Pre-college Python 201 Course
   - [Artistle => A Music Wordle Webapp](https://ryfi.pythonanywhere.com/single-player) 
