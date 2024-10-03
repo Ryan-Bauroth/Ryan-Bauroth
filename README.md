@@ -6,6 +6,6 @@ My experience:
   - Leading a group to create a scouting website from scratch.
 - AP Computer Science 
 - Tufts Pre-college Python 201 Course
-  - [Artistle => A Music Wordle Webapp](https://ryfi.pythonanywhere.com/single-player) 
+  - [Artistle => A Music Wordle Webapp](https://ryfi.pythonanywhere.com/single-player) (Login only works for certain Spotify accounts)
 - Datascience Internship at UNC Chapel Hill
 - Robotics Internship at Duke University
