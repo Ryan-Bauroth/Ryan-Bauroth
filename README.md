@@ -3,9 +3,10 @@ I'm Ryan (He/Him)**
 
 My experience:
 - First Robotics Challenge (#6502)
-  - Leading a group to create a scouting website from scratch.
-- AP Computer Science 
+  - Led a team to develop a scouting website that works while offline.
+  - Worked on two years of competition robot code.
 - Tufts Pre-college Python 201 Course
   - [Artistle => A Music Wordle Webapp](https://ryfi.pythonanywhere.com/single-player) (Login only works for certain Spotify accounts)
-- Datascience Internship at UNC Chapel Hill
 - Robotics Internship at Duke University
+- AP Computer Science
+- Datascience Internship at UNC Chapel Hill
