@@ -9,5 +9,5 @@ My experience:
 - Tufts Pre-college Python 201 Course
   - [Artistle => A Music Wordle Webapp](https://ryfi.pythonanywhere.com/single-player) (Limited artist selection without login. Login only works for certain Spotify accounts)
 - Robotics Internship at Duke University
-- AP Computer Science => ADV Computer Science: Machine Learning + AI
+- AP Computer Science => ADV Computer Science: Machine Learning + AI => ADV Computer Science: Advanced Data Structures
 - Datascience Internship at UNC Chapel Hill
