@@ -9,6 +9,4 @@ My experience:
 - Robotics Internship at Duke University
 - ADV Computer Science: Machine Learning + AI & ADV Computer Science: Advanced Data Structures
 - Datascience Internship at UNC Chapel Hill
-
-Currently doing:
 - Vanderbilt CS 2201 Data Structures class
